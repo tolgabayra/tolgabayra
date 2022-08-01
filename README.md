@@ -16,7 +16,8 @@
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 <br/>
  </div>
- 
+ <br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgabayra&show_icons=true&theme=dracula)
 
 
