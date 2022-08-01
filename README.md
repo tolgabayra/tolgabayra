@@ -1,10 +1,8 @@
-
-<div align="center">
 - 👋 Hi, I’m Tolga Bayrak
 - 👀 I’m interested in software and security
 - 🌱 I’m currently working on frontend and backend systems
 - 📫 How to reach me bayraktolga28@gmail.com
-</div>
+
 
 
 <h3 align="center">Languages & Frameworks & Libraries </h3>
@@ -23,12 +21,11 @@
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=4FC08D)
 <br/>
- </div>
- <br/>
-
-<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgabayra&show_icons=true&theme=dracula)
 </div>
+<br/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgabayra&show_icons=true&theme=dracula)
 
 
 <!---
