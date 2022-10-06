@@ -5,7 +5,6 @@
 
 
 
-<h3 align="center">Languages & Frameworks & Libraries </h3>
 
 <div align="center">
 
