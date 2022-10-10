@@ -10,7 +10,7 @@
 
 <h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,vue,react,php,docker,git&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,vue,react,php,docker,linux,git&theme=dark)
 
 </div>
 
