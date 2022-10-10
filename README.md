@@ -8,7 +8,7 @@
 
 <div align="center">
 
-
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 
 
 
@@ -22,7 +22,6 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgabayra&show_icons=true&theme=dracula)
 
 
 <!---
