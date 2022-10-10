@@ -8,9 +8,9 @@
 
 <div align="center">
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,vue,php)]
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,vue,php&theme=dark)
 
 
 
