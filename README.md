@@ -12,16 +12,5 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,vue,php&theme=dark)
 
-
-
-
-<br/>
 </div>
-<br/>
 
-
-
-
-<!---
-
---->
