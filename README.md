@@ -9,9 +9,7 @@
 <div align="center">
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
-
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
