@@ -9,8 +9,10 @@
 <div align="center">
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
+```md
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+```
 
 
 
